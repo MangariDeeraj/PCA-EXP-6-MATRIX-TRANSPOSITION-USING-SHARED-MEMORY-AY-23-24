@@ -402,4 +402,4 @@ SHOW YOUR OUTPUT HERE
 
 
 ## RESULT:
-The Matrix transposition on shared memory with grid (1,1) block (16,16) is demonstrated successfully.
+The Matrix transposition on shared memory with grid (1,1) block (16,16) is dem onstrated successfully.
